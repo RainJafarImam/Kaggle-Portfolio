@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Data Science Portfolio</h1>
+<h1 align="center">My Kaggle Portfolio</h1>
 
 <p align="center">
   Exploring Data • Building Models • Creating Insights
@@ -14,13 +14,6 @@
   </a>
 </p>
 
----
 
-## 📊 About My Work
 
-I actively build data analysis and machine learning projects on Kaggle.  
-My work includes:
-- 📈 Data Visualization
-- 🤖 Machine Learning Models
-- 🌍 Automation Risk Analysis
-- 💰 Salary Impact Studies
+
